@@ -21,7 +21,7 @@ Hiring at AdventureWorks has plateaued, and with a new executive team in place p
 ## View the presentation
 
 - [View as PDF](presentation/AdventureWorks_HR_Presentation.pdf)
-- [View on Canva](https://canva.link/17edpz0xzfibmln)
+- [View on Canva](https://canva.link/eetq2mhw13zgzzz)
 - [Live Tableau Dashboard](https://public.tableau.com/app/profile/hakeem.leonard/viz/HRDashboard-Adventureworks/Dashboard1)
 
 ## Repository structure
